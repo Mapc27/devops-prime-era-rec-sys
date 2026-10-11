@@ -1,0 +1,19 @@
+{
+  "hybrid": {
+    "ALS": 1.0,
+    "ItemKNN": 0.5,
+    "ContentBased": 1.0,
+    "Trending": 2.0
+  },
+  "hybrid_no_trending": {
+    "ALS": 1.0,
+    "ItemKNN": 1.0,
+    "ContentBased": 1.0,
+    "Trending": 0.0
+  },
+  "val_cutoff": "2021-07-26",
+  "val_ndcg": {
+    "hybrid": 0.025674999421557466,
+    "hybrid_no_trending": 0.012315580213501142
+  }
+}

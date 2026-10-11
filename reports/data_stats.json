@@ -1,0 +1,27 @@
+{
+  "interactions": 814586,
+  "users": 94762,
+  "items": 24174,
+  "density": 0.00034371149315205697,
+  "period": [
+    "1999",
+    "2023"
+  ],
+  "median_per_user": 6.0,
+  "users_le5": 0.3213418880986049,
+  "items_le10": 0.45014055911291584,
+  "top1_share": 0.1858956574259808,
+  "top20_share": 0.7036175431446158,
+  "low_rating": 0.10971462804418441,
+  "dec_jan": 0.21576481795660618,
+  "no_description": 0.2661252537872872,
+  "no_description_features": 0.06208027487115415,
+  "train": 773856,
+  "test_start": "05.08.2022",
+  "test_end": "02.09.2023",
+  "test_months": 13,
+  "warm_users": 9610,
+  "cold_users": 1302,
+  "cold_share": 0.11931818181818182,
+  "test_new_items": 0.4268107046403143
+}

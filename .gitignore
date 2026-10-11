@@ -1,0 +1,17 @@
+# окружение
+.venv/
+__pycache__/
+*.pyc
+
+# данные: ~490 МБ, скачиваются scripts/download_data.sh, parquet-кэш собирается заново
+data/
+
+# системные и редакторские файлы
+.DS_Store
+.idea/
+.vscode/
+.claude/
+
+# lock-файлы Word/LibreOffice, пока отчёт открыт
+~$*
+.~lock.*#
