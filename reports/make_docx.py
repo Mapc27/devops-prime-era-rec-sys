@@ -36,7 +36,7 @@ IMG = REPORTS / "figures"
 SCREENS = IMG / "screens"
 OUT = REPORTS / "RecSys_report.docx"
 
-REPO_URL = "https://github.com/<ваш-аккаунт>/<имя-репозитория>"
+REPO_URL = "https://github.com/Mapc27/devops-prime-era-rec-sys"
 AUTHOR = ""  # ФИО, если нужно указать в шапке
 
 # A4 минус поля: все таблицы и изображения нормируются под эту ширину
